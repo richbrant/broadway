@@ -16,7 +16,8 @@ a {
 
 .background {
   background-image: url("../images/the-flatiron-building.png");
-  color: white
+  background-size: cover; 
+  color: white;
 }
 
 h2{
@@ -37,5 +38,10 @@ p {
   text-align: left;
   font-size: 11px;
   background-color: dimgray;
+  color: white;
+}
+
+.nav{
+  font-size: 18px;
   color: white;
 }
